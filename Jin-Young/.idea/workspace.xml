@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d8dcd2c-9422-4b9c-a29f-9ca54d55e32f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../test2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/.idea/test2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a\Documents\GitHub\Jin-Young\Jin-Young" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.second">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
